@@ -6,25 +6,22 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
  let tag = `@${m.sender.split('@')[0]}`
  let ftroli = { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net' }, message: { orderMessage: { itemCount: 9999999999, status: 1, surface: 1, message: `${command} ${type}`, orderTitle: wm, sellerJid: '0@s.whatsapp.net' } } }
-  let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Rɪᴇʟʟ ɢᴀɴᴢᴢ⸙;;;\nFN:Rɪᴇʟʟ ɢᴀɴᴢᴢ⸙\nORG:Rɪᴇʟʟ ɢᴀɴᴢᴢ\nTITLE:\nitem1.TEL;waid=6282146218274:+62 821-4621-8274\nitem1.X-ABLabel:Rɪᴇʟʟ ɢᴀɴᴢᴢ⸙\nX-WA-BIZ-DESCRIPTION:${htjava} Tᴀᴋ ᴍᴇɴᴇʀɪᴍᴀ sᴀᴠᴇ ᴋᴏɴᴛᴀᴋ!!\nX-WA-BIZ-NAME:Rɪᴇʟʟ ɢᴀɴᴢᴢ⸙\nEND:VCARD`
+  let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Zyla Store⸙;;;\nFN:Zyla Store⸙\nORG:Zyla Store\nTITLE:\nitem1.TEL;waid=6289652963317:+62 896-5296-3317\nitem1.X-ABLabel:Zyla Store⸙\nX-WA-BIZ-DESCRIPTION:${htjava} Dilarang Spam!!\nX-WA-BIZ-NAME:Zyla Store⸙\nEND:VCARD`
 //------- NOMOR
  const pp = fs.readFileSync('./media/own.jpg')
   let nowner1 = `${nomorown1.split`@`[0]}@s.whatsapp.net`
   let nowner2 = `${nomorown2.split`@`[0]}@s.whatsapp.net`
 let teksnomor = (
 `╳ ── ◸ *Mʏ Oᴡɴᴇʀ* ◹ ── ╳
-⟣⟮ *${nameown1}* ⟯⟢
+⟣⟮ *Zyla Store* ⟯⟢
 ⟬ @${nomorown1.split`@`[0]} ⟭
-┆
-⟣⟮ *${nameown2}* ⟯⟢
-⟬ @${nomorown2.split`@`[0]} ⟭
 ┆`
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
 let teksbio = `┆⫹⫺ 💌 Nama : Zyla
 ┆⫹⫺ ✉️ Nama Real : Kepo Anda:v
-┆⫹⫺ ♂️ Gender : ?
+┆⫹⫺ 🗿 Gender : ?
 ┆⫹⫺ 🕋 Agama : Islam
 ┆⫹⫺ ⏰ Tanggal lahir : 20 - 06 - 2006
 ┆⫹⫺ 🎨 Umur : 16
