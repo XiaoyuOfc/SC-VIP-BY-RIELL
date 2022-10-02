@@ -22,16 +22,16 @@ let teksnomor = (
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
-let teksbio = `┆⫹⫺ 💌 Nama : RɪᴇʟʟGᴀɴᴢᴢ
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Pria
+let teksbio = `┆⫹⫺ 💌 Nama : Zyla
+┆⫹⫺ ✉️ Nama Real : Kepo Anda:v
+┆⫹⫺ ♂️ Gender : ?
 ┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 03 - 07 - 2005
-┆⫹⫺ 🎨 Umur : 17
-┆⫹⫺ 🧮 Kelas : 2 sᴍᴋ
-┆⫹⫺ 🧩 Hobby : 𝙼𝚘𝚍𝚒𝚏𝚒𝚔𝚊𝚜𝚒 𝚙𝚎𝚛𝚊𝚗𝚐𝚔𝚊𝚝 𝚕𝚞𝚗𝚊𝚔
+┆⫹⫺ ⏰ Tanggal lahir : 20 - 06 - 2006
+┆⫹⫺ 🎨 Umur : 16
+┆⫹⫺ 🧮 Kelas : 1 sᴍᴋ
+┆⫹⫺ 🧩 Hobby : Rebahan 
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH 
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Kalimantan timur
+┆⫹⫺ 🗺️ Tinggal : Indonesia, Jawa timur
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
@@ -63,8 +63,7 @@ title: `⫹⫺ Oᴛʜᴇʀ ⫹⫺`,
 rows: [
 {title: "⸙ Kontak", rowId: ".owner kontak"},
 {title: "⸙ Nomor", rowId: ".owner nomor"},
-{title: "⸙ Biodata Riel", rowId: ".owner bio"},
-{title: "⸙ Biodata WahyuGirl", rowId: ".owner bio2"},
+{title: "⸙ Biodata Zyla", rowId: ".owner bio"},
 {title: "⸙ Script", rowId: ".sc"},
 ]}, {
 title: `⬔ Sᴜᴘᴘᴏʀᴛ Mᴇ ⬔`,
@@ -109,7 +108,7 @@ await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard
             case 'bio':
           //conn.sendHydrated(m.chat, teksbio, wm, ppown, sig, "📷 Instagram", nomorown, '🌹 Nomor', [[null, null], [null, null],[null,null]], m)
 
-   conn.sendButton(m.chat, '┍┈༺ *Biodata Riell* ༻', teksbio, ppown, [
+   conn.sendButton(m.chat, '┍┈༺ *Biodata Zyla* ༻', teksbio, ppown, [
                 ['Sewa Bot', `${usedPrefix}sewa`],
                 ['Menu', `${usedPrefix}menu`]
             ], m)
@@ -117,7 +116,7 @@ await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard
                         case 'bio2':
           //conn.sendHydrated(m.chat, teksbio, wm, ppown, sig, "📷 Instagram", nomorown, '🌹 Nomor', [[null, null], [null, null],[null,null]], m)
 
-          conn.sendButton(m.chat, '┍┈༺ *Biodata WahyuGirl* ༻', teksbio2, ppown2, [
+          conn.sendButton(m.chat, '┍┈༺ *Biodata Zyla* ༻', teksbio2, ppown2, [
                 ['Sewa Bot', `${usedPrefix}sewa`],
                 ['Menu', `${usedPrefix}menu`]
             ], m)
