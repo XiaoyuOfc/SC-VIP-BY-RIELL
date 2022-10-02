@@ -120,7 +120,7 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/Riellgans'
 global.sgh = 'https://github.com/RielTod1' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sgc = 'https://youtu.be/L3KkmVhv73M' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/RIELBOTZ OFFC'
 
@@ -302,10 +302,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/2d9a745fd579043994593.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/2d9a745fd579043994593.jpg'
-global.giflogo = 'https://telegra.ph/file/2d9a745fd579043994593.mp4'
-global.thumbs = ['https://telegra.ph/file/2d9a745fd579043994593.jpg']
+global.thumb = 'https://telegra.ph/file/5a68338a09366931787ae.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/5a68338a09366931787ae.jpg'
+global.giflogo = 'https://telegra.ph/file/5a68338a09366931787ae.mp4'
+global.thumbs = ['https://telegra.ph/file/5a68338a09366931787ae.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -313,8 +313,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/2d9a745fd579043994593.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/2d9a745fd579043994593.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/5a68338a09366931787ae.png' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/5a68338a09366931787ae.png' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
