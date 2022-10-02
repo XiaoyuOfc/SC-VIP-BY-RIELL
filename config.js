@@ -80,38 +80,38 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['628816701320', 'WahyuAnimek', true],
-['6282146218274', 'I am RiellXd', true]
+['6289652963317', 'Zyla Store', true],
+['6289652963317', 'Zyla Store', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283813417529'
-global.nomorown = '6282146218274'
-global.nomorown1 = '6282146218274'
-global.nomorown2 = '628816701320'
+global.nomorbot = '15813898920'
+global.nomorown = '6289652963317'
+global.nomorown1 = '6289652963317'
+global.nomorown2 = '6289652963317'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Rɪᴇʟʟ X Wᴀʜʏᴜ Aɴɪᴍᴇᴋ'
-global.namebot = '​ 𝐊𝐡𝐮𝐫𝐮𝐬𝐡𝐢 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐑𝐢𝐞𝐥𝐥𝐗𝐝 𝐗 𝐰𝐚𝐡𝐲𝐮'
+global.author = 'Xyla Botz X Zyla'
+global.namebot = '​Xyla Botz'
+global.wm = '© Cerated By Zyla Store'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝐊𝐡𝐮𝐫𝐮𝐬𝐡𝐢 𝐌𝐝 '
+global.wm = 'Xyla Botz '
 global.watermark = wm
-global.wm2 = '𝐊𝐡𝐮𝐫𝐮𝐬𝐡𝐢 𝑴𝒅 '
+global.wm2 = 'Xyla Botz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝐑𝐢𝐞𝐥𝐥 𝐗 𝐖𝐚𝐡𝐲𝐮`
-global.stickpack = '𝐑𝐢𝐞𝐥𝐥 𝐗 𝐖𝐚𝐡𝐲𝐮'
-global.stickauth = `© KHURUSHI MD`
+global.titlebot = `Xyla X Zyla`
+global.stickpack = 'Xyla Botz By Zyla'
+global.stickauth = `© Xyla Botz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Riel'
-global.nameown2 = 'Wahyu'
+global.nameown1= 'Zyla Store'
+global.nameown2 = 'Zyla Store'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -125,17 +125,17 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/RIELBOTZ OFFC'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '6281352724422'
+global.pdana = '081335334848'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '083813417529'
-global.ppulsa2 = '082146218274'
+global.ppulsa = '081335334848'
+global.ppulsa2 = '081335334848'
 global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 1 Bulan 5k\n├ Permanen 10k'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
