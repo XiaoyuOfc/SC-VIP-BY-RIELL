@@ -47,13 +47,13 @@ let handler = async (m, { conn, generateWAMessageFromContent, }) => {
 ╰────────────⬣`
 
 conn.sendButtonDoc(m.chat, '▷ʙᴏᴛ sᴛᴀᴛᴜs◁', sts, 'Owner', '.owner', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https//wa.me/6282146218274?text=Hᴀʟᴏ+ɢᴀɴᴛᴇɴɢᴋᴜ🗿',
+    mediaUrl: 'https//wa.me/6289652963317?text=alo+Owner+Sayang🗿',
     mediaType: 2, 
-    description: 'wa.me/6282146218274?text=Hᴀʟᴏ+ɢᴀɴᴛᴇɴɢᴋᴜ',
-    title: "Iɴɪ Fᴀᴄᴇʙᴏᴏᴋ Gᴡ!",
+    description: 'wa.me/6289652963317?text=Halo+Owner+Sayang:v',
+    title: "Xyla Botz",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
-    sourceUrl: 'https://facebook.com/sadtime098'
+    sourceUrl: 'https://www.youtube.com/watch?v=L3ynUpc7Htk'
      }}
   })
 
