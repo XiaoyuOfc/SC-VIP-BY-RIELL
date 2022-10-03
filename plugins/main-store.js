@@ -44,7 +44,7 @@ let info =
 *SEWA BOT*
 DISKON 50%
 HARGA ASLI 20K PERMANEN✖️
-SEKARANG CUKA 10K PERMANEN✔️
+SEKARANG CUMA 10K PERMANEN✔️
 BURUAN SEBELUM DISKON HABIS!
 `
   /*  {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + 'k (1 minggu)' },
