@@ -41,7 +41,11 @@ let wibb = `${wktuwib}`
 
 let info = 
 `
-Belum Tau Mau Jual Apa:)
+*SEWA BOT*
+DISKON 50%
+HARGA ASLI 20K PERMANEN✖️
+SEKARANG CUKA 10K PERMANEN✔️
+BURUAN SEBELUM DISKON HABIS!
 `
   /*  {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + 'k (1 minggu)' },
 	    {title: "🔖 NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sn + 'k (1 bulan)' },
@@ -55,28 +59,28 @@ rows: [
 rowId: '.store sewabottt 7 Hari',
 description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 5 ᴋ : 7 Hᴀʀɪ' },
 {title: "⟣⟨ NORMAL ⟩⟢",
-rowId: '.store sewabottt 15 Hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 10 ᴋ : 15 Hᴀʀɪ' },
-{title: "⟣⟨ STANDAR ⟩⟢",
-rowId: '.store sewabottt 30 hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 20 ᴋ : 30 Hᴀʀɪ' },
+rowId: '.store sewabottt 30 Hari',
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 10 ᴋ : 30 Hᴀʀɪ' },
 {title: "⟣⟨ PRO ⟩⟢",
-rowId: '.store sewabottt 40 hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 25 ᴋ : 40 Hᴀʀɪ' },
+rowId: '.store sewabottt Permanenn',
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 20 ᴋ : PERMANEN' },
+{title: "⟣⟨ DISKON 50% ⟩⟢",
+rowId: '.store sewabottt Permanen',
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 10 ᴋ : Permanen' },
 ]},
 {
 title: `${htjava} PREMIUM ✦-------`,
 rows: [
-{title: "🌟 HEMAT", 
+{title: "🌟 PERMANEN", 
 rowId: '.order *Paket:* HEMAT • Premium', 
-description: 'PRICE: ' + ph + 'k (1 minggu)' },
+description: 'PRICE: 15k PERMANEN' },
 ]},
 ]
 
 const listMessage = {
   text: info,
-  footer:  `Hᴀʟʟᴏ Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Bᴏᴛ Sᴛᴏʀᴇ ${name}\n📆 : ${week} ${weton} ${date}\n⌛: ${wibb}`,
-  title: '⬒ ───⟢⟨ *Mʏ Lɪsᴛ Sᴛᴏʀᴇ* ⟩⟣─── ⬒',
+  footer:  `Bot Online 24 Nonstop.\n📆 : ${week} ${weton} ${date}\n⌛: ${wibb}`,
+  title: '⬒ ───⟢⟨ *List Sewa Bot* ⟩⟣─── ⬒',
   buttonText: "Click Here!",
   sections
 }
@@ -92,7 +96,7 @@ conn.reply(global.nomorown + '@s.whatsapp.net', m.quoted ? teks + m.quoted.text 
             mentionedJid: [m.sender]
         }
     })
-   m.reply('☑️ Pesan Telah terkirim ke Owner!\n_*Menunggu confirmasi Dari Owner...*_')
+   m.reply('Jika mau sewa bot nya, klik link ini *Https://wa.me/+62896-5296-3317?text=permisi+saya+mau+sewa+bot* ')
   break
   case 'aa': {
   m.reply('ʜᴀʟᴏ:ᴠ')
