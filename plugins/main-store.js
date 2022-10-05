@@ -107,12 +107,12 @@ conn.reply(global.nomorown + '@s.whatsapp.net', m.quoted ? teks + m.quoted.text 
   if (!/[01]/.test(command)) return await conn.sendMessage(m.chat, listMessage)
   throw false
   }
-  /* m.reply('☑️ Pesan Telah terkirim ke Owner!\n_*Menunggu confirmasi Dari Owner...*_')*/
-}
+  /* m.reply('Jika mau beli premium, klik link ini *Https://wa.me/+62896-5296-3317?text=permisi+saya+mau+beli+premium*_')*/
+ }
 
 handler.help = ['store']
 handler.tags = ['main']
-handler.command = /^(store)$/i
+handler.command = /^(store|sewa|sewabot)$/i
 
 export default handler
 
