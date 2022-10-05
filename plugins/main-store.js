@@ -110,9 +110,9 @@ conn.reply(global.nomorown + '@s.whatsapp.net', m.quoted ? teks + m.quoted.text 
   /* m.reply('Jika mau beli premium, klik link ini *Https://wa.me/+62896-5296-3317?text=permisi+saya+mau+beli+premium*_')*/
  }
 
-handler.help = ['store']
+handler.help = ['store' 'sewa' 'sewabot']
 handler.tags = ['main']
-handler.command = /^(store|sewa|sewabot)$/i
+handler.command = /^(store|sewa(bot))$/i
 
 export default handler
 
